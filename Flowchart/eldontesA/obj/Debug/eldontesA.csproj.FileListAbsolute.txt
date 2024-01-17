@@ -1,0 +1,7 @@
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Flowchart\eldontesA\bin\Debug\eldontesA.exe.config
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Flowchart\eldontesA\bin\Debug\eldontesA.exe
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Flowchart\eldontesA\bin\Debug\eldontesA.pdb
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Flowchart\eldontesA\obj\Debug\eldontesA.csproj.AssemblyReference.cache
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Flowchart\eldontesA\obj\Debug\eldontesA.csproj.CoreCompileInputs.cache
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Flowchart\eldontesA\obj\Debug\eldontesA.exe
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Flowchart\eldontesA\obj\Debug\eldontesA.pdb

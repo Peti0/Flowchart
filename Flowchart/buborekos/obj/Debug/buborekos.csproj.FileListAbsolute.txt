@@ -1,0 +1,7 @@
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Flowchart\buborekos\bin\Debug\buborekos.exe.config
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Flowchart\buborekos\bin\Debug\buborekos.exe
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Flowchart\buborekos\bin\Debug\buborekos.pdb
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Flowchart\buborekos\obj\Debug\buborekos.csproj.AssemblyReference.cache
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Flowchart\buborekos\obj\Debug\buborekos.csproj.CoreCompileInputs.cache
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Flowchart\buborekos\obj\Debug\buborekos.exe
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Flowchart\buborekos\obj\Debug\buborekos.pdb

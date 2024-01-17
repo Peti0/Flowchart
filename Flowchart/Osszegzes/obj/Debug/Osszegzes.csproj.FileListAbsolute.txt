@@ -1,0 +1,7 @@
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Flowchart\Osszegzes\bin\Debug\Osszegzes.exe.config
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Flowchart\Osszegzes\bin\Debug\Osszegzes.exe
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Flowchart\Osszegzes\bin\Debug\Osszegzes.pdb
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Flowchart\Osszegzes\obj\Debug\Osszegzes.csproj.AssemblyReference.cache
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Flowchart\Osszegzes\obj\Debug\Osszegzes.csproj.CoreCompileInputs.cache
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Flowchart\Osszegzes\obj\Debug\Osszegzes.exe
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Flowchart\Osszegzes\obj\Debug\Osszegzes.pdb

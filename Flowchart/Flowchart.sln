@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Osszegzes", "Osszegzes\Osszegzes.csproj", "{D9827505-19A3-4ECA-B8FF-7D377C0E984A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minimum_kivalasztasos", "minimum_kivalasztasos\minimum_kivalasztasos.csproj", "{936C2764-DA58-4AE7-B8C9-7DDCCFCAF6CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Megszamolas", "Megszamolas\Megszamolas.csproj", "{D37E7AE5-563C-4B74-B191-3D420411F6AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maximum_kivalasztasos", "maximum_kivalasztasos\maximum_kivalasztasos.csproj", "{8843A8CB-4641-450D-B299-A103628BC439}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buborekos", "buborekos\buborekos.csproj", "{574EB6AB-64BD-4938-8794-9206910ABC3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eldontesA", "eldontesA\eldontesA.csproj", "{E7C7737B-F034-498A-BDAA-DE608B2AA809}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9827505-19A3-4ECA-B8FF-7D377C0E984A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9827505-19A3-4ECA-B8FF-7D377C0E984A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9827505-19A3-4ECA-B8FF-7D377C0E984A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9827505-19A3-4ECA-B8FF-7D377C0E984A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{936C2764-DA58-4AE7-B8C9-7DDCCFCAF6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{936C2764-DA58-4AE7-B8C9-7DDCCFCAF6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{936C2764-DA58-4AE7-B8C9-7DDCCFCAF6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{936C2764-DA58-4AE7-B8C9-7DDCCFCAF6CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D37E7AE5-563C-4B74-B191-3D420411F6AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D37E7AE5-563C-4B74-B191-3D420411F6AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D37E7AE5-563C-4B74-B191-3D420411F6AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D37E7AE5-563C-4B74-B191-3D420411F6AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8843A8CB-4641-450D-B299-A103628BC439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8843A8CB-4641-450D-B299-A103628BC439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8843A8CB-4641-450D-B299-A103628BC439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8843A8CB-4641-450D-B299-A103628BC439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{574EB6AB-64BD-4938-8794-9206910ABC3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{574EB6AB-64BD-4938-8794-9206910ABC3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{574EB6AB-64BD-4938-8794-9206910ABC3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{574EB6AB-64BD-4938-8794-9206910ABC3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7C7737B-F034-498A-BDAA-DE608B2AA809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7C7737B-F034-498A-BDAA-DE608B2AA809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7C7737B-F034-498A-BDAA-DE608B2AA809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7C7737B-F034-498A-BDAA-DE608B2AA809}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D086B44A-F699-4841-BD5E-CAC0231822A0}
+	EndGlobalSection
+EndGlobal

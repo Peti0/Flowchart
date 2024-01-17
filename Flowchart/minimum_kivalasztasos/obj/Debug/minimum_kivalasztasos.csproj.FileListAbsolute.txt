@@ -1,0 +1,7 @@
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Flowchart\minimum_kivalasztasos\bin\Debug\minimum_kivalasztasos.exe.config
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Flowchart\minimum_kivalasztasos\bin\Debug\minimum_kivalasztasos.exe
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Flowchart\minimum_kivalasztasos\bin\Debug\minimum_kivalasztasos.pdb
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Flowchart\minimum_kivalasztasos\obj\Debug\minimum_kivalasztasos.csproj.AssemblyReference.cache
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Flowchart\minimum_kivalasztasos\obj\Debug\minimum_kivalasztasos.csproj.CoreCompileInputs.cache
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Flowchart\minimum_kivalasztasos\obj\Debug\minimum_kivalasztasos.exe
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Flowchart\minimum_kivalasztasos\obj\Debug\minimum_kivalasztasos.pdb
